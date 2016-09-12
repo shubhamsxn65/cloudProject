@@ -1,0 +1,1 @@
+org.cloudbus.cloudsim.power.models.PowerModelSpecPowerIbmX3550XeonX5675
